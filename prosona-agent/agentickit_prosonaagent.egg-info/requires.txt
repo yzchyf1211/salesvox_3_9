@@ -1,0 +1,5 @@
+jinja2>=3.1.6
+langchain_community==0.3.29
+agentickit==0.2.28
+agentickit-artifact>=0.1.17
+drill-aom-plugins>=0.0.1a86

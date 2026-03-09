@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    "**/.idea": true,
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/.ruff_cache": true
+  },
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "extensions.ignoreRecommendations": true,
+  "editor.defaultFormatter": "charliermarsh.ruff"
+}

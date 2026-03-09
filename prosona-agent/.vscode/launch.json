@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Prosona",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/__main__.py",
+      "env": {
+        "PYTHONUNBUFFERED": "1",
+        "APP_ENV": "native",
+        "APP_NAME": "prosona-agent",
+        "log.dir": "logs"
+      },
+      "cwd": "${workspaceFolder}",
+      "justMyCode": false
+    }
+  ]
+}
